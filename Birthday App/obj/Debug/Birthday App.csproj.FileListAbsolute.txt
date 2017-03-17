@@ -1,0 +1,17 @@
+E:\Programming\Projects\Birthday App\Birthday App\bin\Debug\Birthday App.exe.config
+E:\Programming\Projects\Birthday App\Birthday App\bin\Debug\Birthday App.exe
+E:\Programming\Projects\Birthday App\Birthday App\bin\Debug\Birthday App.pdb
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday App.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday_App.Form1.resources
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday_App.Properties.Resources.resources
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday App.csproj.GenerateResource.Cache
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday App.exe
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday App.pdb
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday_App.Form2.resources
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday_App.Main_Form.resources
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday_App.PicturesAndQutationShow.resources
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday_App.About.resources
+E:\Programming\Projects\Birthday App\Birthday App\bin\Debug\Birthday App.exe.manifest
+E:\Programming\Projects\Birthday App\Birthday App\bin\Debug\Birthday App.application
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday App.exe.manifest
+E:\Programming\Projects\Birthday App\Birthday App\obj\Debug\Birthday App.application
